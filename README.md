@@ -132,7 +132,7 @@ If you like this project, give it a ⭐ on GitHub!
 
 ---
 
-## 🧑‍💼 Interview Explanation (Important)
+## 🧑‍💼 Interview Explanation:
 
 > "I worked on a Blinkit sales analysis project where I used SQL for data querying and Power BI for building an interactive dashboard to analyze sales trends, customer behavior, and business performance."
 
